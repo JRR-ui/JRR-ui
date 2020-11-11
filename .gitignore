@@ -1,0 +1,9 @@
+mysite/db.sqlite3
+mysite/miaochuan/__pycache__/__init__.cpython-39.pyc
+mysite/mysite/__pycache__/__init__.cpython-39.pyc
+mysite/mysite/__pycache__/settings.cpython-39.pyc
+mysite/polls/__pycache__/__init__.cpython-39.pyc
+mysite/yunpan/__pycache__/__init__.cpython-39.pyc
+mysite/yunpan/__pycache__/settings.cpython-39.pyc
+mysite/yunpan/__pycache__/wsgi.cpython-39.pyc
+mysite/yunpan/__pycache__/urls.cpython-39.pyc
